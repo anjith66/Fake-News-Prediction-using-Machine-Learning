@@ -117,7 +117,7 @@ Data Cleaning
 Feature Engineering
 ▶️ How to Run the Project
 Step 1: Clone Repository
-git clone https://github.com/your-username/fake-news-prediction.git
+git clone -https://github.com/anjith66/Fake-News-Prediction-using-Machine-Learning/tree/main
 Step 2: Install Required Libraries
 pip install numpy pandas nltk scikit-learn
 Step 3: Run Jupyter Notebook
